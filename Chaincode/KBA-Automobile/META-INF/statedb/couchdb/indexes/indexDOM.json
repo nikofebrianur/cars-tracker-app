@@ -1,0 +1,8 @@
+{
+  "index": {
+    "fields": ["dateOfManufacture"]
+  },
+  "ddoc": "indexDOMDoc",
+  "name": "indexDOM",
+  "type": "json"
+}

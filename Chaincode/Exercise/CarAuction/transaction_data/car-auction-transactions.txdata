@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "carAuctionExists",
+        "transactionLabel": "A test carAuctionExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createCarAuction",
+        "transactionLabel": "A test createCarAuction transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readCarAuction",
+        "transactionLabel": "A test readCarAuction transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateCarAuction",
+        "transactionLabel": "A test updateCarAuction transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteCarAuction",
+        "transactionLabel": "A test deleteCarAuction transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]

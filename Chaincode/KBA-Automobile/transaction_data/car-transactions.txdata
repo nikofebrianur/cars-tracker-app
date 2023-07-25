@@ -1,0 +1,71 @@
+[
+  {
+    "transactionName": "carExists",
+    "transactionLabel": "A test carExists transaction",
+    "arguments": [
+      "Car-001"
+    ],
+    "transientData": {}
+  },
+  {
+    "transactionName": "createCar",
+    "transactionLabel": "A test createCar transaction",
+    "arguments": [
+      "Car-003",
+      "Sedan",
+      "X1",
+      "Red",
+      "10-10-2020",
+      "Factory-01"
+    ],
+    "transientData": {}
+  },
+  {
+    "transactionName": "readCar",
+    "transactionLabel": "A test readCar transaction",
+    "arguments": [
+      "Car-001"
+    ],
+    "transientData": {}
+  },
+  {
+    "transactionName": "deleteCar",
+    "transactionLabel": "A test deleteCar transaction",
+    "arguments": [
+      "Car-001"
+    ],
+    "transientData": {}
+  },
+  {
+    "transactionName": "queryAllCars",
+    "transactionLabel": "A test queryAllCars transaction",
+    "arguments": [],
+    "transientData": {}
+  },
+  {
+    "transactionName": "getCarsByRange",
+    "transactionLabel": "A test getCarsByRange transaction",
+    "arguments": [
+      "",
+      ""
+    ],
+    "transientData": {}
+  },
+  {
+    "transactionName": "getCarsWithPagination",
+    "transactionLabel": "A test getCarsWithPagination transaction",
+    "arguments": [
+      "2",
+      ""
+    ],
+    "transientData": {}
+  },
+  {
+    "transactionName": "getCarsHistory",
+    "transactionLabel": "A test getCarsHistory transaction",
+    "arguments": [
+      "Car-001"
+    ],
+    "transientData": {}
+  }
+]
